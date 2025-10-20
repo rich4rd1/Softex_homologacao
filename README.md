@@ -19,10 +19,10 @@
 
 
 # Observação
-Cada App, precisa de 4 arquivos essenciais para conseguir subir uma instância do projeto:
-  models.py: Arquivo referente a configuração do banco de dados
-  uls.py: Aquivo referente a configuração de rota relacionado com aquele app 
-  views.py: Arquivo referente a configuração de como as informações desse app serão apresentadas
-  serializers.py: Arquivo referente a conversão das informações de uma estrutura para outra
+Cada App, precisa de 4 arquivos essenciais para conseguir subir uma instância do projeto:\
+  models.py: Arquivo referente a configuração do banco de dados\
+  uls.py: Aquivo referente a configuração de rota relacionado com aquele app\
+  views.py: Arquivo referente a configuração de como as informações desse app serão apresentadas\
+  serializers.py: Arquivo referente a conversão das informações de uma estrutura para outra\
 
 Na falta de um desses, é impossivel subir uma instância de teste
