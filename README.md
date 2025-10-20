@@ -14,7 +14,7 @@
 >> python manage.py startapp accounts
 
 ## Rode as migrações do sistema 
->> python manage.py makemigrations
+>> python manage.py makemigrations  
 >> python manage.py migrate
 
 
