@@ -19,11 +19,11 @@
 
 
 # Observação
-Cada App, precisa de 4 arquivos essenciais para conseguir subir uma instância do projeto:\
+Cada App, precisa de 4 arquivos essenciais para conseguir subir uma instância do projeto:
 
   __models.py__: Arquivo referente a configuração do banco de dados\
   __uls.py__: Aquivo referente a configuração de rota relacionado com aquele app\
   __views.py__: Arquivo referente a configuração de como as informações desse app serão apresentadas\
-  __serializers.py__: Arquivo referente a conversão das informações de uma estrutura para outra\
+  __serializers.py__: Arquivo referente a conversão das informações de uma estrutura para outra
 
 Na falta de um desses, é impossivel subir uma instância de teste
